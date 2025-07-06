@@ -13,8 +13,10 @@ Welcome to the **GTA 6 Landing Page**, a modern and interactive web experience b
 
 ## 📸 Screenshots
 
-
-| ![Landing Screenshot](./screenshot/Landingpage.png) | ![Animation Screenshot](./screenshots/animation.png) |
+Landing Page
+ ![Landing Screenshot](./screenshot/Landingpage.png) 
+Next Page
+![Animation Screenshot](./screenshot/Lastpage.png) |
 
 
 ---
