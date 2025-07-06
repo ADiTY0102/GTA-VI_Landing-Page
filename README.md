@@ -88,35 +88,8 @@ npm start
 ```
 
 ## 📌 Example Code Snippet
+![code snippit](./screenshot/App.jsx.png) 
 
-```
-// HeroSection.jsx
-import React, { useEffect, useRef } from 'react';
-import { gsap } from 'gsap';
-
-const HeroSection = () => {
-  const titleRef = useRef(null);
-
-  useEffect(() => {
-    gsap.from(titleRef.current, {
-      opacity: 0,
-      y: -50,
-      duration: 1,
-      ease: 'power3.out'
-    });
-  }, []);
-
-  return (
-    <section className="bg-black text-white h-screen flex items-center justify-center">
-      <h1 ref={titleRef} className="text-5xl md:text-7xl font-bold">
-        Welcome to GTA 6
-      </h1>
-    </section>
-  );
-};
-
-export default HeroSection;
-```
 
 ## 👨‍💻 Author
 Aditya Binjagermath <br>
