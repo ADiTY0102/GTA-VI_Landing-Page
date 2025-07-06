@@ -1,6 +1,9 @@
-# 🎮 GTA 6 Landing Page
+# GTA 6 Landing Page
 
-Welcome to the **GTA 6 Landing Page**, a modern and interactive web experience built with **React**, **GSAP**, and **Tailwind CSS**. This project simulates a high-quality, animated landing page for the much-anticipated release of Grand Theft Auto VI.
+
+Hello Developers..<br>
+This side aditya.!  
+Welcome to the **GTA 6 Landing Page**, a modern and interactive web experience built with **React**, **GSAP**, and **Tailwind CSS**. This project simulates a high-quality, animated landing page for the much-anticipated release of **Grand Theft Auto VI**.
 
 ---
 
@@ -13,10 +16,10 @@ Welcome to the **GTA 6 Landing Page**, a modern and interactive web experience b
 
 ## 📸 Screenshots
 
-Landing Page
+**Landing Page**
  ![Landing Screenshot](./screenshot/Landingpage.png) 
-Next Page
-![Animation Screenshot](./screenshot/Lastpage.png) |
+**Next Page**
+![Animation Screenshot](./screenshot/Lastpage.png) 
 
 
 ---
@@ -40,7 +43,29 @@ Next Page
 ---
 
 ## 📂 Folder Structure
-
+```
+reactGTA/
+├── public/
+├── src/
+│ ├── App.jsx
+│ ├── BottomBar.jsx
+│ ├── Button.jsx
+│ ├── Images.jsx
+│ ├── index.css
+│ ├── LandingPage.jsx
+│ ├── LastPage.jsx
+│ ├── LeftSide.jsx
+│ ├── main.jsx
+│ ├── Navbar.jsx
+│ ├── RightSide.jsx
+│ ├── Svg.jsx
+├── .gitignore
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── README.md
+```
 
 
 ---
@@ -92,3 +117,12 @@ const HeroSection = () => {
 
 export default HeroSection;
 ```
+
+## 👨‍💻 Author
+Aditya Binjagermath <br>
+📧 adityabinjagermath12@gmail.com <br>
+🔗 GitHub
+
+
+## 📃 License
+This project is licensed under the MIT License.
