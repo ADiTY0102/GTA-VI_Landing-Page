@@ -83,7 +83,7 @@ cd gta6-landing-page
 npm install
 
 # Start development server
-npm start
+npm run dev
 
 ```
 
